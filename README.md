@@ -2,8 +2,8 @@
 
 🔭I am an aspiring Full-Stack Developer and Web Developer<br/>
 🏫I am a Computer Science Student at the University of the Philippines - Mindanao.<br/>
-🌱I am currently learning the foundations of Web Development and finding my tech stacks.<br/>
-🖼️I do commissions related to Graphic Designing such as School Paper Layouts, Pubmats, Shirt Designing, and planning to do web development commissions in the future too.<br/>
+🌱I am currently learning the foundations of Web Development and finding my tech stacks that suits me.<br/>
+🖼️I do commissions related to Graphic Designing such as School Paper Layouts, Pubmats, Shirt Designing, and planning to do web development commissions in the future.<br/>
 
 <!-- Github Stat -->
 [![Brenth's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenthmozo-dev&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
