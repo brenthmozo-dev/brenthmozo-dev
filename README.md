@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi! I'm Brenth👋
 
+🔭I am an aspiring Full-Stack Developer and Web Developer<br/>
+🏫I am a Computer Science Student at the University of the Philippines - Mindanao.<br/>
+🌱I am currently learning the foundations of Web Development and finding my tech stacks.<br/>
+🖼️I do commissions related to Graphic Designing such as School Paper Layouts, Pubmats, Shirt Designing, and planning to do web development commissions in the future too.
 <!--
 **brenthmozo-dev/brenthmozo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
